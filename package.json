@@ -1,0 +1,23 @@
+{
+  "name": "sukoa-koshin",
+  "version": "1.0.0",
+  "description": "Football score updater",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xeron07/Sukoa-koshin.git"
+  },
+  "author": "Md.Minhaz Uddin, Alauddin Munshi, Kawser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xeron07/Sukoa-koshin/issues"
+  },
+  "homepage": "https://github.com/Xeron07/Sukoa-koshin#readme",
+  "dependencies": {
+    "cookie-session": "^1.3.3",
+    "express": "^4.17.1"
+  }
+}
